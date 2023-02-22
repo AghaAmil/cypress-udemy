@@ -7,13 +7,13 @@ Cypress: Web Automation Testing from Zero to Hero
 
 | Pros | Cons. |
 | --- | --- |
-| • Complete Framework
-• VERY fast
-• More stable
-• Not required Solid Programming Skills
-• Test and mock APIs
-• Don’t need test environment | • No IE & Safari support
-• Asynchronous code
-• No mobile but mobile view
-• Single domain and single tab
-• Not Friendly with iFrames |
+| • Complete Framework | • No IE & Safari support
+• VERY fast | • Asynchronous code
+• More stable | • No mobile but mobile view
+• Not required Solid Programming Skills | • Single domain and single tab
+• Test and mock APIs | • Not Friendly with iFrames |
+• Don’t need test environment 
+
+
+
+
