@@ -28,5 +28,12 @@ printName("Mike", "Tyson");
 let multiplyByTwo = (number) => {
   return (number *= 2);
 };
-
 console.log(multiplyByTwo(2));
+
+//import function
+import { printAge } from "../external-functions/age-function.js";
+printAge(20);
+
+//import everything
+import * as externalFunc from "../external-functions/age-function.js";
+externalFunc.printTel("+989123004487");
